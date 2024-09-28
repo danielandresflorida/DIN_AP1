@@ -4,3 +4,5 @@ Este fichero servirá para que podáis actualizar vuestros repositorios locales 
 Archivo modificado por: Daniel
 
 - Añadimos esta línea para generar un conflicto
+
+Texto añadido desde la rama funcionalidad1
