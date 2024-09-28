@@ -9,3 +9,5 @@ Objetivos del curso:
     <li>Tener un portfolio de proyectos interesantes y bien trabajados</li>
     <li>Mejorar mi capacidad analítica y de resolución de problemas</li>
 </ul>
+
+![GitHub logo](GitHub-Symbol.png)
