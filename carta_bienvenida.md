@@ -2,3 +2,5 @@
 
 Este fichero servirá para que podáis actualizar vuestros repositorios locales haciendo un `pull`.
 Archivo modificado por: Daniel
+
+- Añadimos esta línea para generar un conflicto
